@@ -44,6 +44,9 @@ Open the virtual machine settings, navigate to the storage tab, and select the e
 
 <h2>Step 6: Start up the virtual machine</h2>
 Click "Start" to launch the virtual machine and begin the installation process for the server, ensuring all necessary configurations are in place beforehand.
+<h2>setting Up Windows Server 2016:</h2>
+
+A blue boot screen will appear, followed by the setup screen. Select your preferred language, time, and keyboard format. Click "Next," then proceed by clicking "Install Now" to continue.
 
 <img src="">
 
