@@ -48,7 +48,10 @@ Click "Start" to launch the virtual machine and begin the installation process f
 
 A blue boot screen will appear, followed by the setup screen. Select your preferred language, time, and keyboard format. Click "Next," then proceed by clicking "Install Now" to continue.
 
+<img src="Folder/wind 9.png">
+
 <img src="">
+
 
 
 
