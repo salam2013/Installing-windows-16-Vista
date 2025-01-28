@@ -1,6 +1,6 @@
 # Installing-windows-16-Vista
 <h2>Step 1</h2>
-Visit the official Microsoft website to download the Windows Server 2016 ISO (64-bit edition). Click the <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2016?msockid=09c4b7a977c167441f0ca2f3765e66ba"> </a>link to access and start your download.
+Visit the official Microsoft website to download the Windows Server 2016 ISO (64-bit edition). Click the <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2016?msockid=09c4b7a977c167441f0ca2f3765e66ba"> link </a> to access and start your download.
 
 
 <img src="Folder/wind1.png">
@@ -98,14 +98,13 @@ Type in the password when prompted as the system logs into the account for the f
 Finally, the desktop interface will fully load, and your system will be ready for use, completing the setup process.
 
 
-<img src="">
-
-<img src="">
+<img src="Folder/wind 21.png">
 
 
-<img src="">
 
-<img src="">
+
+
+
 
 
 
