@@ -78,7 +78,10 @@ The installation will complete and restart automatically. Avoid clicking anythin
 
 Choose Password
 
-<img src="">
+<img src="Folder/wind 17.png">
+
+Go to "Input," select "Keyboard," and choose "Insert Ctrl+Alt+Delete" to unlock the screen and proceed with the setup.
+
 
 <img src="">
 
