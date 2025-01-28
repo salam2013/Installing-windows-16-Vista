@@ -31,6 +31,12 @@ Cycle through and complete by clicking Finish to create your virtual machine.
 
 <img src="Folder/wind 5.png">
 
+<h2>Step 5 Configure VM settings: </h2>
+Open the virtual machine settings, navigate to the storage tab, and select the empty disk. Locate and insert the downloaded Server 2016 ISO file. Once inserted, click "OK" to save the changes and proceed with the setup.
+
+
+<img src="">
+
 
 
 
