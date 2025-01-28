@@ -20,10 +20,11 @@ You can name the virtual machine 'Windows Server 2016,' and the system should au
 
 <img src="Folder/wind3.png">
 
-
+<h2>Step 4</h2>
 It’s recommended to allocate at least 2GB of base memory for optimal performance. If your system has additional resources, you can increase the memory allocation to enhance functionality and ensure smoother operation.
 
-<h2>step 4</h2>
+<img src="Folder/wind 4.png">
+
 
 
 
