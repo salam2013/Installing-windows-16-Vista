@@ -87,7 +87,10 @@ Go to "Input," select "Keyboard," and choose "Insert Ctrl+Alt+Delete" to unlock 
 
 
 
-<img src="">
+<img src="Folder/wind 19.png">
+
+
+Type in the password when prompted as the system logs into the account for the first time, completing the initial setup process.
 
 <img src="">
 
