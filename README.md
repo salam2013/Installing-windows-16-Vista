@@ -65,7 +65,11 @@ Type of install, choose custom
 <img src="Folder/wind 13.png">
 
 Make sure the drive is selected, hit next
+
+
 <img src="Folder/wind 14.png">
+
+The installation will complete and restart automatically. Avoid clicking anything as it boots into the setup. Let the process finish uninterrupted.
 
 <img src="">
 
