@@ -37,6 +37,12 @@ Open the virtual machine settings, navigate to the storage tab, and select the e
 
 <img src="Folder/wind 6.png">
 
+<img src="">
+
+<img src="">
+
+<img src="">
+
 
 
 
