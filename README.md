@@ -29,7 +29,7 @@ Cycle through and complete by clicking Finish to create your virtual machine.
 
 
 
-<img src="">
+<img src="Folder/wind 5.png">
 
 
 
