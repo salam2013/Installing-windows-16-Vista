@@ -39,7 +39,11 @@ Open the virtual machine settings, navigate to the storage tab, and select the e
 
 <img src="Folder/wind 7.png">
 
-<img src="">
+<img src="Folder/wind 8.png">
+
+
+<h2>Step 6: Start up the virtual machine</h2>
+Click "Start" to launch the virtual machine and begin the installation process for the server, ensuring all necessary configurations are in place beforehand.
 
 <img src="">
 
