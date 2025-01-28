@@ -65,7 +65,7 @@ Type of install, choose custom
 <img src="Folder/wind 13.png">
 
 Make sure the drive is selected, hit next
-<img src="">
+<img src="Folder/wind 14.png">
 
 <img src="">
 
