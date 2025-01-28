@@ -18,3 +18,6 @@ You can name the virtual machine 'Windows Server 2016,' and the system should au
 
 
 
+<img src="Folder/wind3.png">
+
+
