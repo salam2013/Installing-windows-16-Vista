@@ -46,28 +46,44 @@ Open the virtual machine settings, navigate to the storage tab, and select the e
 Click "Start" to launch the virtual machine and begin the installation process for the server, ensuring all necessary configurations are in place beforehand.
 <h2>setting Up Windows Server 2016:</h2>
 
+<h2>Step 7</h2>
+
 A blue boot screen will appear, followed by the setup screen. Select your preferred language, time, and keyboard format. Click "Next," then proceed by clicking "Install Now" to continue.
 
 <img src="Folder/wind 9.png">
 
 <img src="Folder/wind 10.png">
 
+<h2>Step 8</h2>
+
 Select the desired version, preferably "Server 2016 Standard with Desktop Experience." Once chosen, click "Next" to proceed with the installation process.
 
 <img src="Folder/wind 11.png">
+
+
+<h2>Step 9</h2>
+
 
 Agree with the license terms, hit next
 
 <img src="Folder/wind 12.png">
 
+<h2>Step 10</h2>
+
 Type of install, choose custom
 
 <img src="Folder/wind 13.png">
+
+<h2>Step 11</h2>
+
 
 Make sure the drive is selected, hit next
 
 
 <img src="Folder/wind 14.png">
+
+<h2>Step 12</h2>
+
 
 The installation will complete and restart automatically. Avoid clicking anything as it boots into the setup. Let the process finish uninterrupted.
 
@@ -76,9 +92,14 @@ The installation will complete and restart automatically. Avoid clicking anythin
 
 <img src="Folder/wind 16.png">
 
+
+<h2>Step 13</h2>
+
 Choose Password
 
 <img src="Folder/wind 17.png">
+
+<h2>Step 14</h2>
 
 Go to "Input," select "Keyboard," and choose "Insert Ctrl+Alt+Delete" to unlock the screen and proceed with the setup.
 
@@ -90,9 +111,15 @@ Go to "Input," select "Keyboard," and choose "Insert Ctrl+Alt+Delete" to unlock 
 <img src="Folder/wind 19.png">
 
 
+<h2>Step 15</h2>
+
+
 Type in the password when prompted as the system logs into the account for the first time, completing the initial setup process.
 
 <img src="Folder/wind 20.png">
+
+
+<h2>Step 16</h2>
 
 
 Finally, the desktop interface will fully load, and your system will be ready for use, completing the setup process.
