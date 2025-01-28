@@ -50,6 +50,10 @@ A blue boot screen will appear, followed by the setup screen. Select your prefer
 
 <img src="Folder/wind 9.png">
 
+<img src="Folder/wind 10.png">
+
+Select the desired version, preferably "Server 2016 Standard with Desktop Experience." Once chosen, click "Next" to proceed with the installation process.
+
 <img src="">
 
 
