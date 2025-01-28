@@ -5,6 +5,8 @@ Visit the official Microsoft website to download the Windows Server 2016 ISO (64
 
 <img src="Folder/wind1.png">
 
+
+<h2>Step 2 </h2>
 If you haven’t installed VirtualBox yet, I’ve created a detailed guide to help you. Once installed, open VirtualBox and click ‘New’ to create and set up a new virtual machine.
 
 
