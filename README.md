@@ -92,9 +92,21 @@ Go to "Input," select "Keyboard," and choose "Insert Ctrl+Alt+Delete" to unlock 
 
 Type in the password when prompted as the system logs into the account for the first time, completing the initial setup process.
 
+<img src="Folder/wind 20.png">
+
+
+Finally, the desktop interface will fully load, and your system will be ready for use, completing the setup process.
+
+
 <img src="">
 
 <img src="">
+
+
+<img src="">
+
+<img src="">
+
 
 
 
