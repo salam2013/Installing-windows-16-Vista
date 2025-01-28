@@ -58,7 +58,7 @@ Select the desired version, preferably "Server 2016 Standard with Desktop Experi
 
 Agree with the license terms, hit next
 
-<img src="">
+<img src="Folder/wind 12.png">
 
 Type of install, choose custom
 
