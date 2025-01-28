@@ -83,7 +83,9 @@ Choose Password
 Go to "Input," select "Keyboard," and choose "Insert Ctrl+Alt+Delete" to unlock the screen and proceed with the setup.
 
 
-<img src="">
+<img src="Folder/wind 18.png">
+
+
 
 <img src="">
 
