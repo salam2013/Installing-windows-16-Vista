@@ -13,4 +13,8 @@ If you haven’t installed VirtualBox yet, I’ve created a detailed guide to he
 <img src="Folder/wind 2.png">
 
 
+<h2>Step 3</h2>
+You can name the virtual machine 'Windows Server 2016,' and the system should automatically set the version to Windows 2016 64-bit. If it doesn’t update automatically, ensure the correct version is manually selected and highlighted for accuracy.
+
+
 
