@@ -74,7 +74,9 @@ The installation will complete and restart automatically. Avoid clicking anythin
 <img src="Folder/wind 15.png">
 
 
-<img src="">
+<img src="Folder/wind 16.png">
+
+Choose Password
 
 <img src="">
 
